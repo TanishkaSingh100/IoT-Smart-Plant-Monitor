@@ -1,4 +1,4 @@
-# 🌱 IoT-Based Smart Plant Monitoring System
+<img width="1905" height="909" alt="image" src="https://github.com/user-attachments/assets/cded77fa-a098-43af-a153-5baeb58a6bb9" /># 🌱 IoT-Based Smart Plant Monitoring System
 
 A fully automated, headless IoT system that continuously monitors soil moisture, temperature, and humidity, and autonomously waters plants when required. Built using Raspberry Pi 4 and Python, the system is designed for long-term, unattended operation.
 
@@ -6,7 +6,7 @@ A fully automated, headless IoT system that continuously monitors soil moisture,
 
 ## 📸 Project Demo
 
-![Final Project](images/final_box_closed.jpg)
+![Final Project](images/Concept.jpg)
 
 *A compact, self-contained prototype demonstrating autonomous plant monitoring and irrigation.*
 
@@ -44,7 +44,7 @@ A fully automated, headless IoT system that continuously monitors soil moisture,
 
 ### 1️⃣ Clone the Repository
 bash
-git clone https://github.com/your-username/IoT-Smart-Plant-Monitor.git
+git clone https://github.com/TanishkaSingh100/IoT-Smart-Plant-Monitor.git 
 cd IoT-Smart-Plant-Monitor
 
 ### 2️⃣ Install Dependencies
@@ -60,4 +60,5 @@ python3 main.py
 Note: The script is configured to run automatically on system boot using crontab.
 
 👩‍💻 Author
+
 Tanishka Singh
