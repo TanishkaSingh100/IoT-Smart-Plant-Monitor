@@ -1,0 +1,5 @@
+RPi.GPIO
+adafruit-circuitpython-dht
+luma.oled
+luma.core
+pillow
