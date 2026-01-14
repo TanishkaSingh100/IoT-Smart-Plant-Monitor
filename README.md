@@ -1,4 +1,4 @@
-<img width="1905" height="909" alt="image" src="https://github.com/user-attachments/assets/cded77fa-a098-43af-a153-5baeb58a6bb9" /># 🌱 IoT-Based Smart Plant Monitoring System
+# 🌱 IoT-Based Smart Plant Monitoring System
 
 A fully automated, headless IoT system that continuously monitors soil moisture, temperature, and humidity, and autonomously waters plants when required. Built using Raspberry Pi 4 and Python, the system is designed for long-term, unattended operation.
 
