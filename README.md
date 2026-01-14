@@ -6,7 +6,7 @@ A fully automated, headless IoT system that continuously monitors soil moisture,
 
 ## 📸 Project Demo
 
-![Final Project](images/Concept.jpg)
+![Final Project](images/Prototype.jpg)
 
 *A compact, self-contained prototype demonstrating autonomous plant monitoring and irrigation.*
 
