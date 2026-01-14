@@ -43,16 +43,16 @@ A fully automated, headless IoT system that continuously monitors soil moisture,
 ## 💻 Installation & Usage
 
 ### 1️⃣ Clone the Repository
-```bash
+bash
 git clone https://github.com/your-username/IoT-Smart-Plant-Monitor.git
 cd IoT-Smart-Plant-Monitor
 
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 bash
 Copy code
 pip3 install -r requirements.txt
 
-3️⃣ Run the Script
+### 3️⃣ Run the Script
 bash
 Copy code
 python3 main.py
